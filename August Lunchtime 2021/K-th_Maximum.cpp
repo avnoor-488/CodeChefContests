@@ -1,6 +1,7 @@
-// Given an array of integers. Write a program to find
-// the K-th largest sum of contiguous subarray within the array of
-// numbers which has negative and positive numbers.
+// You are given a sequence of integers A1,A2,…,ANA1,A2,…,AN and an integer KK. 
+// Find the number of contiguous subsequences AL,AL+1,…,ARAL,AL+1,…,AR such that R−L+1≥KR−L+1≥K 
+// and the KK-th element of the subsequence (AL+K−1AL+K−1) is 
+// equal to the maximum of all elements of the entire sequence.
 
 
 
