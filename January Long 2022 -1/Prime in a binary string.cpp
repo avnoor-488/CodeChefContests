@@ -1,4 +1,4 @@
-//Problem Link :- https://www.codechef.com/COOK137B/problems/MEANMAX
+//Problem Link :-https://www.codechef.com/JAN221B/problems/PINBS
 #include <bits/stdc++.h>
 using namespace std;
 
